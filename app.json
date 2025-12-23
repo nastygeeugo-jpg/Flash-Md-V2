@@ -14,12 +14,12 @@
     "PREFIX": {
       "description": "Comma-separated list of command prefixes (e.g. !, /)",
       "required": false,
-      "value": "!"
+      "value": "."
     },
     "YOUR_NUMBER": {
       "description": "Your WhatsApp number in international format (e.g. 254742063632)",
       "required": false,
-      "value": "254742063632"
+      "value": "2347074164483"
     },
     "MODE": {
       "description": "Bot mode: 'private' or 'public'",
@@ -34,7 +34,7 @@
     "YOUR_NAME": {
       "description": "Your name or bot owner name",
       "required": false,
-      "value": "FLASH-MD"
+      "value": "PASCHAL-MD"
     },
     "ANTICALL": {
       "description": "Block incoming calls (on/off)",
